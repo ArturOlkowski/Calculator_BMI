@@ -19,7 +19,6 @@ def count(weight,height):
        
     print("You'r BMI score is:",round(BMI,2))
 
-    print(BMI)
     
 count(weight,height)
 
